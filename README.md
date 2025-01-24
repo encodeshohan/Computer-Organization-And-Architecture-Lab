@@ -8,27 +8,10 @@ Each lab session includes well-documented assembly programs with explanations an
 
 <table>
   <tr>
-    <th colspan="2"><h2>Lab Sessions</h2></th>
+    <th><h2>Lab Sessions</h2></th>
   </tr>
   <tr>
-    <th>Topics</th>
-    <th>Lab Links</th>
-  </tr>
-  <tr>
-    <td>Introduction to Assembly & Registers</td>
-    <td><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-01">Lab 01</a></td>
-  </tr>
-  <tr>
-    <td>Data Transfer & Arithmetic Operations</td>
-    <td><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-02">Lab 02</a></td>
-  </tr>
-  <tr>
-    <td>Branching & Looping</td>
-    <td><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-03">Lab 03</a></td>
-  </tr>
-  <tr>
-    <td>Memory Addressing & Stack Operations</td>
-    <td><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-04">Lab 04</a></td>
+    <td><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-01</a></td>
   </tr>
 </table>
 
