@@ -1,6 +1,6 @@
 # 📌 Computer Organization & Architecture Lab
 
-## 📌 Overview
+## ✨ Overview
 This repository contains hands-on lab exercises focused on **Assembly Language Programming** for understanding low-level computer architecture and system operations. The labs cover essential concepts such as registers, memory addressing, control instructions, and arithmetic operations in assembly language.
 
 ## 📂 Lab Exercises
