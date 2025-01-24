@@ -1,4 +1,4 @@
-# 🖥️ Computer Organization & Architecture Lab
+# 📌 Computer Organization & Architecture Lab
 
 ## 📌 Overview
 This repository contains hands-on lab exercises focused on **Assembly Language Programming** for understanding low-level computer architecture and system operations. The labs cover essential concepts such as registers, memory addressing, control instructions, and arithmetic operations in assembly language.
@@ -8,16 +8,16 @@ Each lab session includes well-documented assembly programs with explanations an
 
 <table>
   <tr>
-    <th><h2>Lab Sessions</h2></th>
+    <th colspan="7"><h2>Lab Sessions</h2></th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-01</a></td>
-    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-02</a></td>
-    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-03</a></td>
-    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-04</a></td>
-    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-05</a></td>
-    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-06</a></td>
-    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-07</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-11/Lab-Task-02">Lab-Task-02</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-18/Lab-Task-3">Lab-Task-03</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Dec-23/Lab-Task-04">Lab-Task-04</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Dec-30/Lab-Task-05">Lab-Task-05</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Jan-06/Lab-Task-06">Lab-Task-06</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Jan-13/Lab-Task-07">Lab-Task-07</a></td>
   </tr>
 </table>
 
