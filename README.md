@@ -11,7 +11,13 @@ Each lab session includes well-documented assembly programs with explanations an
     <th><h2>Lab Sessions</h2></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-01</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-01</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-02</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-03</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-04</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-05</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-06</a></td>
+    <td align="center"><a href="https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab/tree/main/Lab-Nov-04/Lab-Task-01">Lab-Task-07</a></td>
   </tr>
 </table>
 
