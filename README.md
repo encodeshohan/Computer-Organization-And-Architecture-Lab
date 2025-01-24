@@ -35,7 +35,7 @@ Each lab session includes well-documented assembly programs with explanations an
 ## ⚙ How to Use 
 **Clone the repository**:  
    ```bash
-   git clone https://github.com/encodeshohan/Operating-System-Lab.git
+   git clone https://github.com/encodeshohan/Computer-Organization-And-Architecture-Lab.git
    ```
 
 ## 📊 Key Learnings
