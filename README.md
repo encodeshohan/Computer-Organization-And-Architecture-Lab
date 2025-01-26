@@ -4,7 +4,7 @@
 This repository contains hands-on lab exercises focused on **Assembly Language Programming** for understanding low-level computer architecture and system operations. The labs cover essential concepts such as registers, memory addressing, control instructions, and arithmetic operations in assembly language.
 
 ## 📂 Lab Exercises
-Each lab session includes well-documented assembly programs with explanations and execution steps.
+Each lab session includes well-documented assembly programs with explanations and execution steps. 
 
 <table>
   <tr>
